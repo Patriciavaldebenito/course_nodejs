@@ -1,0 +1,28 @@
+{
+  "name": "03_bases_node",
+  "version": "1.0.0",
+  "description": "Course nodejs se crea una aplicación de linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patriciavaldebenito/course_nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "npm"
+  ],
+  "author": "Patricia Valdebenito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patriciavaldebenito/course_nodejs/issues"
+  },
+  "homepage": "https://github.com/Patriciavaldebenito/course_nodejs#readme",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {}
+}
