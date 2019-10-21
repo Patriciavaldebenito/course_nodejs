@@ -9,7 +9,6 @@ let getName = () => {
     });
 }
 
-
 // await debe estar dentro de una fx con async (parametro)
 let saludo = async() => {
 
@@ -17,8 +16,6 @@ let saludo = async() => {
 
     return `Hola ${ nombre }`;
 }
-
-
 
 saludo().then(mje => {
     console.log(mje)
