@@ -15,9 +15,10 @@ fs.writeFile(`../tabla/tabla-${ base }.txt`, data, (err) => {
 });
 */
 
+
 createFile(base)
 .then( archivo => { 
     console.log(`Archivo creado ${archivo}`); 
 })
 .catch(err => {console.log(err);
-})
+});
