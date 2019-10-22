@@ -12,7 +12,7 @@ const argv = require('yargs')
     .help()
     .argv;
 
-const { createFile } = require('../multiplicar/multiplicar')
+const { createFile } = require('./multiplicar/multiplicar')
 
 let argvThree = process.argv;
 console.log(argv.base);

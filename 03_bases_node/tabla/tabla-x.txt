@@ -1,0 +1,10 @@
+x * 1 = NaN
+x * 2 = NaN
+x * 3 = NaN
+x * 4 = NaN
+x * 5 = NaN
+x * 6 = NaN
+x * 7 = NaN
+x * 8 = NaN
+x * 9 = NaN
+x * 10 = NaN

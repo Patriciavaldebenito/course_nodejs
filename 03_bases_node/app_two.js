@@ -1,4 +1,4 @@
-const { createFile } = require('../multiplicar/multiplicar')
+const { createFile } = require('./multiplicar/multiplicar')
 
 let argv = process.argv;
 let parametro = argv[2];

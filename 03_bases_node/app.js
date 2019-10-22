@@ -1,7 +1,7 @@
 //const fs = require('fs');
 //const fs = require('express'); // paquete que se instala 
 //const fs = require('./xx'); // los que incorporamos , escritos en alguna ruta
-const { createFile } = require('../multiplicar/multiplicar')
+const { createFile } = require('./multiplicar/multiplicar')
 let base = 'y';
 
 /*
