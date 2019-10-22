@@ -32,7 +32,7 @@ const { createFile, listarTabla } = require('../multiplicar/multiplicar')
 //node app_four =>  { _: [], '$0': 'app_four' } 
 //node app_four crear listar borrar comer => { _: [ 'crear', 'listar', 'borrar', 'comer' ], '$0': 'app_four' }
 
-/**************************************************************************************************************** */
+/************************************************************************************************************** */
 let comando = argv._[0];
 switch (comando) {
     case 'listar':
